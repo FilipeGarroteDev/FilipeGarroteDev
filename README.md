@@ -1,6 +1,6 @@
-<h2 align="center">Hello World!!</h2> 
+<h2 align="center">🌎 Hello World! 🌍</h2> 
 <br />
-<br />
+
 
 ## I'm Filipe Garrote  👋
 
@@ -8,14 +8,16 @@
 
 
 ### I'm a tech lover and future Web Developer!
-- 🔭 I’m currently in career transition from São Paulo Court of Justice
-- 🌱 I’m currently working with HTML, CSS, JS and currently learning React
+- 👨🏻‍💻 I’m currently in career transition from São Paulo Court of Justice
+- 🖥️ I’m currently working with HTML, CSS, JS and learning React
 - 😄 Available for new challenges and good chat 
 - 💬 Pronouns: He/His
 
 
 ### Talk with me, I am a cool guy:
 [<img align="left" alt="Filipe Garrote | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="Filipe Garrote | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+[<img align="left" alt="Filipe Garrote | Whatsapp" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/whatsapp.svg" />][whatsapp]
 
 <br />
 
