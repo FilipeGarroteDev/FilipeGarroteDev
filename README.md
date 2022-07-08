@@ -9,7 +9,7 @@
 
 
 ### I'm a tech lover and future Web Developer!
-- 👨🏻‍💻 I’m currently in career transition from São Paulo Court of Justice
+- 👨🏻‍💻 A government employee from São Paulo Court of Justice in career transition
 - 🖥️ I’m currently working with HTML, CSS, JS and learning React
 - 😄 Available for new challenges and good chat 
 - 💬 Pronouns: He/His
