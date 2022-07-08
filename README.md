@@ -12,6 +12,7 @@
 - 🖥️ I’m currently working with HTML, CSS, JS and learning React
 - 😄 Available for new challenges and good chat 
 - 💬 Pronouns: He/His
+- 📚 Driven Web Fullstack Bootcamp student
 
 <br />
 
