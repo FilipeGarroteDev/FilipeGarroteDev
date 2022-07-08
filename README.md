@@ -57,19 +57,10 @@
 <br />
 
 
-<details>
-  <summary>:zap: GitHub Stats</summary>
+<img align="left" alt="Filipe's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=FilipeGarroteDev&show_icons=true&hide_border=true" />
 
-  <img align="left" alt="Filipe's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=FilipeGarroteDev&show_icons=true&hide_border=true" />
+<img align="right" alt="Filipe's GitHub Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FilipeGarroteDev" />
 
-</details>
-
-<details>
-  <summary>:zap: Most Used Languages</summary>
-
-<img align="left" alt="Filipe's GitHub Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FilipeGarroteDev" />
-
-</details>
 
 [instagram]: https://www.instagram.com/garrote94/
 [linkedin]: https://www.linkedin.com/in/filipegarrote/
