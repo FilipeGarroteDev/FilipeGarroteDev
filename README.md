@@ -64,4 +64,4 @@
 
 [instagram]: https://www.instagram.com/garrote94/
 [linkedin]: https://www.linkedin.com/in/filipegarrote/
-[whatsapp]: https://whats.link/filipegarrote
+[whatsapp]: https://wa.me/5511954630107
