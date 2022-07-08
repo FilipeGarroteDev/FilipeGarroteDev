@@ -13,12 +13,6 @@
 - 😄 Available for new challenges and good chat 
 - 💬 Pronouns: He/His
 
-
-### Talk with me, I am a cool guy:
-[<img align="left" alt="Filipe Garrote | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="Filipe Garrote | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
-[<img align="left" alt="Filipe Garrote | Whatsapp" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/whatsapp.svg" />][whatsapp]
-
 <br />
 
 ### Languages and Tools:<br>
@@ -43,7 +37,12 @@
 <img align="left" alt="python" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" />
 <img align="left" alt="Docker" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/docker/docker.png" />
 
+<br />
 
+### Talk with me, I am a cool guy:
+[<img align="left" alt="Filipe Garrote | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="Filipe Garrote | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+[<img align="left" alt="Filipe Garrote | Whatsapp" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/whatsapp.svg" />][whatsapp]
 
 <br />
 <br />
@@ -65,3 +64,4 @@
 
 [instagram]: https://www.instagram.com/garrote94/
 [linkedin]: https://www.linkedin.com/in/filipegarrote/
+[whatsapp]: https://whats.link/filipegarrote
