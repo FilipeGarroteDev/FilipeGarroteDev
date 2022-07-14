@@ -58,9 +58,9 @@
 <br />
 
 
-<img align="right" alt="Filipe's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=FilipeGarroteDev&show_icons=true&hide_border=true" />
+<img align="right" alt="Filipe's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=FilipeGarroteDev&show_icons=true&hide_border=true&theme=dracula" />
 
-<img align="left" alt="Filipe's GitHub Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FilipeGarroteDev" />
+<img align="left" alt="Filipe's GitHub Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FilipeGarroteDev&hide_border=true&theme=dracula" />
 
 
 [instagram]: https://www.instagram.com/garrote94/
