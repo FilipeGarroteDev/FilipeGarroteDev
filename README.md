@@ -66,7 +66,7 @@ src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350
 
 <br />
 
-<div align="bottom">
+<div align="left">
  <img align="right" alt="Filipe's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=FilipeGarroteDev&show_icons=true&hide_border=true&theme=dracula" />
 
  <img align="left" alt="Filipe's GitHub Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FilipeGarroteDev&hide_border=true&theme=dracula" />
