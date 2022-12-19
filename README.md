@@ -9,8 +9,8 @@
 
 
 ### I'm a tech lover and future Web Developer!
-- 👨🏻‍💻 A government employee of São Paulo Court of Justice in career transition
-- 🖥️ I’m currently working with HTML, CSS, JS and learning React
+- 👨🏻‍💻 Fullstack Software Engineer
+- 🖥️ I'm already working with React.js and Node.js, with databases SQL (PostgreSQL) and NoSQL (MongoDB), Prisma ORM and Jest to integration tests.
 - 😄 Available for new challenges and good chat 
 - 💬 Pronouns: He/His
 - 📚 Driven Web Fullstack Bootcamp student
