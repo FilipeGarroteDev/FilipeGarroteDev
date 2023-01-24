@@ -10,7 +10,7 @@
 
 ### I'm a tech lover and Software Engineer!
 - 👨🏻‍💻 Fullstack Software Engineer
-- 🖥️ I'm already working with React.js and Node.js, with databases SQL (PostgreSQL) and NoSQL (MongoDB), Prisma ORM and Jest to integration tests.
+- 🖥️ I'm already working with TypeScript and JavaScript on React.js and Node.js, with databases SQL (PostgreSQL) and NoSQL (MongoDB), Prisma ORM and Jest to integration tests.
 - 😄 Available for new challenges and good chat 
 - 💬 Pronouns: He/His
 - 📚 Driven Web Fullstack Bootcamp student
@@ -29,7 +29,9 @@
 <img align="left" alt="Postgresql" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/postgresql/postgresql.png" />
 <img align="left" alt="MondoDB" width="26px" heigth="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" />
 <img align="left" alt="Prisma" width="26px" src="https://skills.thijs.gg/icons?i=prisma&theme=light" />
-<img align="center" alt="Jest" width="26px" src="https://raw.githubusercontent.com/jpb06/jpb06/master/icons/Jest.svg" />
+<img align="left" alt="Jest" width="26px" src="https://raw.githubusercontent.com/jpb06/jpb06/master/icons/Jest.svg" />
+<img align="left" alt="Docker" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/docker/docker.png" />
+<img align="center" alt="AWS" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/aws/aws.png" />
 <img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
 <img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
 <img align="left" alt="Terminal" width="26px" 
@@ -46,7 +48,9 @@ src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350
 <h3>Loading...</h3>
 
 <img align="left" alt="python" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" />
-<img align="left" alt="Docker" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/docker/docker.png" />
+<img align="left" alt="flutter" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/flutter/flutter.png" />
+<img align="left" alt="java" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png" />
+
 
 <br />
 
@@ -59,7 +63,6 @@ src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350
 
 ### Talk with me, I am a cool guy:
 [<img align="left" alt="Filipe Garrote | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="Filipe Garrote | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 [<img align="left" alt="Filipe Garrote | Whatsapp" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/whatsapp.svg" />][whatsapp]
 
 <br />
@@ -73,6 +76,5 @@ src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350
  </div>
 
 
-[instagram]: https://www.instagram.com/garrote94/
 [linkedin]: https://www.linkedin.com/in/filipegarrote/
 [whatsapp]: https://wa.me/5511954630107
