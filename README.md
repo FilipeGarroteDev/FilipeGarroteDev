@@ -63,7 +63,7 @@ src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350
 
 ### Talk with me, I am a cool guy:
 [<img align="left" alt="Filipe Garrote | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="Filipe Garrote | Whatsapp" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/whatsapp.svg" />][whatsapp]
+[<img align="left" alt="Filipe Garrote | Gmail" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />][gmail]
 
 <br />
 
@@ -77,4 +77,4 @@ src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350
 
 
 [linkedin]: https://www.linkedin.com/in/filipegarrote/
-[whatsapp]: https://wa.me/5511954630107
+[gmail]: mailto:filipe.garrote@gmail.com
